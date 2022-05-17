@@ -1,4 +1,4 @@
-module bresenham
+module github.com/fputs/bresenham
 
 go 1.18
 
